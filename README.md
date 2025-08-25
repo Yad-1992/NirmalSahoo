@@ -2,6 +2,11 @@
 
 ### A passionate Data Analyst and Python Developer from India
 
+## Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yad-1992&color=brightgreen" alt="Profile Views" />
+</p>
+
 <!-- Add a profile image or banner if you want; this is optional -->
 <!-- <img src="https://your-banner-image-url.jpg" alt="Banner" /> -->
 
