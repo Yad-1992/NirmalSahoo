@@ -18,3 +18,7 @@ A passionate Data Analyst & Project Coordinator from India.
 ## Projects
 - [Project1](link)
 - [Project2](link)
+
+- 
+![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NirmalSahoo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSahoo&layout=compact&theme=radical)
