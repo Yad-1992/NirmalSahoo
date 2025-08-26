@@ -36,32 +36,6 @@ Analytical and detail-oriented Data Analyst & Finance Professional with 8 years 
   <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Office_Access_%282019-present%29.svg" alt="microsoft-access" width="40" height="40"/> </a>
 </p>
 
-### Work Experience (8 Years):
-- **Project Coordinator** at SteelmanTelecom Pvt Ltd. (NOKIA) (06/2024 - Present, Bhubaneswar, Odisha)  
-  - Coordinating project activities and schedules for timely execution.  
-  - Managing and circulating Daily Progress Reports (DPRs).  
-  - Utilizing Power BI and SQL for data analysis to support decision-making.  
-  - Assisting in project planning, execution, and monitoring.  
-  - **Contact**: Prakash Satapathy - 9937049410
-
-- **Account Executive** at Care Netram LLP (08/2023 - 06/2024, Bhubaneswar, India)  
-  - Handling accounts payable, accounts receivable, and financial reporting.  
-  - Preparing monthly and annual financial statements.  
-  - Managing inventory and stock records.  
-  - Monitoring and recording company expenses.  
-  - **Contact**: Debasis Mohapatra - 9337569969
-
-- **Account Executive** at Verma Logistics Pvt Ltd (05/2017 - 06/2023, Cuttack, India)  
-  - Managed payroll, accounts payable, and accounts receivable for 140+ employees.  
-  - Created financial dashboards and reports for performance tracking.  
-  - Prepared quarterly variance reports and annual financial statements.  
-  - Handled bank reconciliations and online banking transactions.  
-  - **Contact**: Ranjan Satapathy - 9776050048
-
-### Education:
-- **MBA in System Management** at Biju Patnaik University of Technology
-- **Bachelor Degree in Science** at Utkal University, Odisha (06/2014 - 05/2017)
-
 ### Certificates:
 - **Deloitte Australia Data Analytics Job Simulation on Forage** (February 2025)  
   - Completed a Deloitte job simulation involving data analysis and forensic technology.  
