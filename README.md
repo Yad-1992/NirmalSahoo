@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Power BI dashboards and Python tools**
 - 👨‍💻 All of my projects are available at [https://github.com/Yad-1992](https://github.com/Yad-1992)
 - 💬 Ask me about **Data visualization, Python scripting, or resume builders**
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **nirmalasahoongrh@gmail.com**
 - 📄 Know about my experiences [Link to your resume or Google Drive PDF](https://your-resume-link.com)
 - ⚡ Fun fact **I love turning data into insights!**
 
