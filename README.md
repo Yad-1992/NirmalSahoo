@@ -1,6 +1,6 @@
-# Hi 👋, I'm Nirmal Sahoo
+<h1 align="center">Hi 👋, I'm Nirmal Sahoo</h1>
+<h3 align="center">A passionate Data Analyst and Python Developer from India</h3>
 
-### A passionate Data Analyst and Python Developer from India
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Yad-1992&color=brightgreen" alt="Profile Views" />
