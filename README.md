@@ -8,7 +8,6 @@
 <!-- Add a profile image or banner if you want; this is optional -->
 <!-- <img src="https://your-banner-image-url.jpg" alt="Banner" /> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yad-1992&theme=onedark" alt="Yad-1992" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Power BI dashboards and Python tools**
 - 👨‍💻 All of my projects are available at [https://github.com/Yad-1992](https://github.com/Yad-1992)
