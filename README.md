@@ -5,6 +5,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Yad-1992&color=brightgreen" alt="Profile Views" />
 </p>
+
+
 <!-- Add a profile image or banner if you want; this is optional -->
 <!-- <img src="https://your-banner-image-url.jpg" alt="Banner" /> -->
 
@@ -17,10 +19,17 @@
 - ⚡ Fun fact **I love turning data into insights!**
 
 ### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/nirmal-sahoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
-<!-- Add more social icons as needed -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/nirmal-sahoo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="nirmalasahoongrh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Yad-1992">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 </p>
 
 ### Languages and Tools:
@@ -53,3 +62,15 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yad-1992&theme=dark" alt="Yad-1992" />
 </p>
+
+---------------------------------------------------
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yad-1992&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Data+Analyst;Python+Developer;Power+BI+Specialist)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.gif" alt="Banner" />
+</p>
+
