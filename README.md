@@ -4,13 +4,11 @@
 
 Analytical and detail-oriented Data Analyst & Finance Professional with 8 years of experience in project coordination, financial management, and data analysis. Proficient in SQL, Power BI, DAX, Power Query, and Python, with a strong ability to manage large datasets, create insightful reports, and optimize business decisions through data-driven insights. Seeking to leverage expertise in analytics and financial reporting in a dynamic organization.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yad-1992&theme=onedark" alt="Yad-1992" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Power BI dashboards and data-driven financial tools**
 - 👨‍💻 All of my projects are available at [https://github.com/Yad-1992](https://github.com/Yad-1992)
 - 💬 Ask me about **data visualization, financial reporting, or Python scripting**
 - 📫 How to reach me **nirmalasahoongrh@gmail.com**
-- 📄 Know about my experiences [Link to your resume or Google Drive PDF](https://your-resume-link.com)
+- 📄 Know about my experiences [linkedin.com/in/nirmal-sahoo-655449164](https://linkedin.com/in/nirmal-sahoo-655449164)
 - ⚡ Fun fact **I enjoy transforming raw data into actionable business strategies!**
 
 ### Connect with me:
@@ -34,22 +32,6 @@ Analytical and detail-oriented Data Analyst & Finance Professional with 8 years 
   <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Office_Access_%282019-present%29.svg" alt="microsoft-access" width="40" height="40" style="margin-right: 15px;"/> </a>
 </p>
 
-### Certificates:
-- **Deloitte Australia Data Analytics Job Simulation on Forage** (February 2025)  
-  - Completed a Deloitte job simulation involving data analysis and forensic technology.  
-  - Created a data dashboard using Tableau.  
-  - Used Excel to classify data and draw business conclusions.
-
-- **PwC Switzerland Power BI Job Simulation on Forage** (February 2025)  
-  - Strengthened Power BI skills for data visualization and client insights.  
-  - Designed dashboards to convey KPIs and meet client needs.  
-  - Communicated insights effectively via concise emails.  
-  - Analyzed HR data, identifying gender balance issues at the executive level.
-
-- **Tata Data Visualisation: Empowering Business with Effective Insights Job Simulation on Forage** (July 2024)  
-  - Completed a simulation involving creating data visualizations for Tata Consultancy Services.  
-  - Prepared questions for a meeting with client senior leadership.  
-  - Created visuals for data analysis to help executives with effective decision-making.
 
 ### My GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yad-1992&show_icons=true&theme=dark&locale=en&layout=compact" alt="Yad-1992" /></p>
