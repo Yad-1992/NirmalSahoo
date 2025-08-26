@@ -45,3 +45,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yad-1992&show_icons=true&theme=dark&locale=en" alt="Yad-1992" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yad-1992&theme=dark" alt="Yad-1992" /></p>
+
+
+<h3 align="center">GitHub Statistics</h3>
+
+<p align="center">
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
