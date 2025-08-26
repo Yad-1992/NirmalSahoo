@@ -65,14 +65,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yad-1992&theme=dark" alt="Yad-1992" />
 </p>
 
----------------------------------------------------
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yad-1992&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Data+Analyst;Python+Developer;Power+BI+Specialist)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.gif" alt="Banner" />
-</p>
-
